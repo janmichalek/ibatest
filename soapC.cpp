@@ -3,6 +3,7 @@
    Copyright(C) 2000-2008, Robert van Engelen, Genivia Inc. All Rights Reserved.
    This part of the software is released under one of the following licenses:
    GPL, the gSOAP public license, or Genivia's license for commercial use.
+   jmich-zmena pre skusku git
 */
 
 #include "soapH.h"
