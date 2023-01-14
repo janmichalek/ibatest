@@ -4,4 +4,5 @@
 
 #include "stdafx.h"
 //jmich pre 2. komit
+// pre 3. komit
 
